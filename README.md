@@ -19,6 +19,13 @@ To-Do_List/
 └── README.md
 
 ````
+## Technologies
+
+HTML5
+CSS3
+JavaScript
+localStorage – Lokale Speicherung der Aufgaben
+
 
 ## Features  
 - Create, edit and delete tasks.  
@@ -32,8 +39,11 @@ To-Do_List/
    git clone https://github.com/SamehaSalem87/To-Do_List.git
 
 
-2. Open the project folder in your favorite code editor (e.g., Visual Studio Code)
-3. Launch using a local server (e.g., VS Code Live Server) or open `index.html` in browser.
-4. Start adding tasks and managing your list!
+2. Öffne die Anwendung in deinem Browser: https://samehasalem87.github.io/To-Do_List/
 
+3. Füge eine neue Aufgabe hinzu, indem du sie in das Eingabefeld schreibst und auf "Hinzufügen" klickst.
+
+4. Bearbeite oder lösche Aufgaben nach Bedarf.
+
+5. Kategorisiere Aufgaben als "Offen" oder "Erledigt".
 
