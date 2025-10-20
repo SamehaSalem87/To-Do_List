@@ -26,24 +26,14 @@ To-Do_List/
 - Persist tasks using Local Storage — no backend required.  
 - Clean UI and responsive layout.
 
-## Running Locally  
+## How to Run it Locally  
 1. Clone the repository  
    ```bash
    git clone https://github.com/SamehaSalem87/To-Do_List.git
-````
+
 
 2. Open the project folder in your favorite code editor (e.g., Visual Studio Code)
 3. Launch using a local server (e.g., VS Code Live Server) or open `index.html` in browser.
 4. Start adding tasks and managing your list!
 
-## 🛠 Built With
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* Local Storage for persistence
-
-##  Why This Project?
-
-As a junior software developer, this “To-Do List” project showcases your ability to build a functional interactive application,
-implement basic CRUD operations, manage states (completed/uncompleted), and apply clean front-end design. It’s a great stepping stone in your portfolio.
